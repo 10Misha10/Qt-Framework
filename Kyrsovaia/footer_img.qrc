@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Bez_Imeni-1.png</file>
+        <file>Снимок.PNG</file>
+        <file>Снимок1.PNG</file>
+    </qresource>
+</RCC>

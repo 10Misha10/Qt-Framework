@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Background">
+        <file>Снимок.PNG</file>
+        <file>Снимок1.PNG</file>
+        <file>2.PNG</file>
+        <file>222</file>
+    </qresource>
+</RCC>
