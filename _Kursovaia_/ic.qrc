@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/cc">
+        <file>release/icon.png</file>
+        <file>free-icon-calculator-8072290.png</file>
+    </qresource>
+</RCC>

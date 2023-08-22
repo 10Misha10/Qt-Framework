@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/dollars">
+        <file>доллары-removebg-preview.png</file>
+    </qresource>
+</RCC>
